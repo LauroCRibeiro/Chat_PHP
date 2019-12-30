@@ -1,0 +1,516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"extra",
+				"extra_marks"
+			],
+			[
+				"discip",
+				"discipline"
+			],
+			[
+				"assingment_",
+				"assignment_id"
+			],
+			[
+				"semester",
+				"semester_assignments"
+			],
+			[
+				"assig",
+				"assignment_details"
+			],
+			[
+				"student",
+				"students_assignments"
+			],
+			[
+				"assi",
+				"assignment"
+			],
+			[
+				"semest",
+				"semester_assignments"
+			],
+			[
+				"semes",
+				"semester_grades"
+			],
+			[
+				"observation",
+				"observations_notes"
+			],
+			[
+				"attendance",
+				"attendance_in_class"
+			],
+			[
+				"rel",
+				"relatorios"
+			],
+			[
+				"year",
+				"year_grade"
+			],
+			[
+				"atten",
+				"attendance_in_class"
+			],
+			[
+				"semeste",
+				"semester_exams"
+			],
+			[
+				"att",
+				"attachment"
+			],
+			[
+				"observat",
+				"observation_notes"
+			],
+			[
+				"date",
+				"date_day"
+			],
+			[
+				"stu",
+				"students_who_showed_this_assignment"
+			],
+			[
+				"studen",
+				"student_code"
+			],
+			[
+				"seme",
+				"semester_assignments"
+			],
+			[
+				"assignmen",
+				"assignment_id"
+			],
+			[
+				"studn",
+				"student_code"
+			],
+			[
+				"pass",
+				"password2"
+			],
+			[
+				"payment",
+				"payment_methods"
+			],
+			[
+				"paymn",
+				"payment_methods"
+			],
+			[
+				"paymen",
+				"payment_day"
+			],
+			[
+				"iden",
+				"identification"
+			],
+			[
+				"del",
+				"delivery"
+			],
+			[
+				"assin",
+				"assignment_id"
+			],
+			[
+				"delivery",
+				"delivery_date"
+			],
+			[
+				"attac",
+				"attachment"
+			],
+			[
+				"atta",
+				"attachment"
+			],
+			[
+				"send",
+				"send_semester_assignment"
+			],
+			[
+				"st",
+				"student"
+			],
+			[
+				"res",
+				"res_7"
+			],
+			[
+				"y",
+				"year_grade"
+			],
+			[
+				"ass",
+				"assingment"
+			],
+			[
+				"teac",
+				"print_teacher_payment"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"Inacti",
+				"Inactive"
+			],
+			[
+				"attach",
+				"attachment"
+			],
+			[
+				"due",
+				"due_date"
+			],
+			[
+				"attend",
+				"attendance_in_class"
+			],
+			[
+				"doc",
+				"doctoral_degree"
+			],
+			[
+				"mas",
+				"masters_degree"
+			],
+			[
+				"lea",
+				"leaving_certificate"
+			],
+			[
+				"docto",
+				"doctoral"
+			],
+			[
+				"le",
+				"leaving_cert"
+			],
+			[
+				"master",
+				"masters_degree"
+			],
+			[
+				"mast",
+				"masters_degree"
+			],
+			[
+				"class",
+				"classrooom"
+			],
+			[
+				"courses",
+				"courses_and_disciplines"
+			],
+			[
+				"grade",
+				"grade_year"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"reso",
+				"residential_phone"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Lauro Ribeiro/Documents/Curso_PHP/chat/chat.php",
+		"/C/Users/Lauro Ribeiro/Documents/CCT/cctRepeatSemester5/Data Structure and Algorithm/week1/Efficiency.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa15892.16881/Main.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa17332.32903/RestwsclientApplicationTests.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Library.mwb",
+		"/C/Users/Lauro Ribeiro/Documents/greenwheel/greenwheel/src/com/greenwheel/repository/VehicleRepository.java",
+		"/C/Users/Lauro Ribeiro/Documents/greenwheel/greenwheel/src/com/greenwheel/util/FileUtils.java",
+		"/C/Users/Lauro Ribeiro/Documents/greenwheel/greenwheel/src/com/greenwheel/model/Vehicle.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa2372.39378/Library.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa16696.23828/LoginDAO.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa9540.28609/Printing.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa9540.25557/Helicopter.java",
+		"/C/System Web/Arquivos/Sistema/Workspace/SistemaLogin/src/br/com/SistemaLogin/conexao/CriarConexao.java",
+		"/C/System Web/Arquivos/Sistema/Workspace/SistemaLogin/src/br/com/SistemaLogin/conexao/Main.java",
+		"/C/Users/Lauro Ribeiro/Swing33 - Passwords/src/gui/MainFrame.java",
+		"/C/Users/Lauro Ribeiro/Swing25 - Controller/src/model/Person.java",
+		"/C/Users/Lauro Ribeiro/Documents/NetBeansProjects/Main/src/main/Main.java",
+		"/C/xampp/htdocs/registration/include/config.php",
+		"/C/xampp/htdocs/registration/include/db.php",
+		"/C/xampp/htdocs/registration/index.php",
+		"/C/xampp/htdocs/registration/forgot_password.php",
+		"/C/xampp/htdocs/registration/myaccount.php",
+		"/C/xampp/htdocs/registration/register.php",
+		"/C/xampp/htdocs/registration/includes/config.php",
+		"/C/xampp/htdocs/registration/includes/db.php",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa12492.28498/admin.php",
+		"/C/xampp/htdocs/login/functions/db.php",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa12492.20233/Config.php",
+		"/C/Users/Lauro Ribeiro/Downloads/BubbleSort.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa12492.8709/admin.php",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa8956.13952/Main.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa8956.17565/Constantes.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa8956.19212/SaleDAO.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa8956.19818/SaleDAOImpl.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa8956.20950/SaleItem.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa4288.13187/LibrarianLogin.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa4288.41212/LibrarianDao.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa3068.12235/LibrarianSuccess.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa3068.11083/LibrarianDao.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa3068.9135/LibrarianLogin.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Register.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa4288.35922/LibrarianForm.java",
+		"/C/Users/Lauro Ribeiro/Swing25 - Controller/src/model/Database.java",
+		"/C/Users/Lauro Ribeiro/Swing25 - Controller/src/gui/App.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Login.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Register (1).java",
+		"/C/Users/Lauro Ribeiro/Downloads/Week6.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Week7.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Week6View.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Week6Controller.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Database.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Week3.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Main.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Main (1).java",
+		"/C/Users/Lauro Ribeiro/Downloads/NewTicket (1).java",
+		"/C/Users/Lauro Ribeiro/Downloads/WindowListenerExample.java",
+		"/C/Users/Lauro Ribeiro/Downloads/ShowingData.java",
+		"/C/Users/Lauro Ribeiro/Downloads/CoupledSolution (2).java",
+		"/C/Users/Lauro Ribeiro/Downloads/DecoupledListeningSolution (2).java",
+		"/C/Users/Lauro Ribeiro/Downloads/DecoupledListeningSolution (2) (1).java",
+		"/C/Users/Lauro Ribeiro/Downloads/BasicLogin.java",
+		"/C/Users/Lauro Ribeiro/Downloads/BigButtonWithDialogPopup.java",
+		"/C/Users/Lauro Ribeiro/Downloads/BasicShowData.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa6460.14732/Browser.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa6460.15809/Updater.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa6460.12898/GUIThread.java",
+		"/C/Users/Lauro Ribeiro/Downloads/NewTicket.java",
+		"/C/Users/Lauro Ribeiro/Downloads/EpochToDate.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Main (2).java",
+		"/C/Users/Lauro Ribeiro/Downloads/Model.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Controller.java",
+		"/C/Users/Lauro Ribeiro/Downloads/View.java",
+		"/C/Users/Lauro Ribeiro/Downloads/LastClass.java",
+		"/C/Users/Lauro Ribeiro/Downloads/Main (3).java",
+		"/C/Users/Lauro Ribeiro/Downloads/LastClassTest.java",
+		"/C/Users/Lauro Ribeiro/Downloads/PracticeWeek3.java",
+		"/C/xampp/htdocs/School_System/admin/_notes/dwsync.xml",
+		"/C/Users/Lauro Ribeiro/Downloads/FactoryMethod/src/PassagemOnibusInterestadual.java",
+		"/C/Users/Lauro Ribeiro/Downloads/FactoryMethod/src/EmpresaOnibusInterestadual.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa7972.37261/MinhaApp.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa7972.36605/PassagemOnibusUrbano.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa7972.36276/PassagemOnibusInterestadual.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa7972.35967/Empresa.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa7972.35595/EmpresaOnibusUrbano.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa7972.36930/Passagem.java",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa7972.34267/EmpresaOnibusInterestadual.java",
+		"/C/xampp/htdocs/School_System/teacher/attendance.php",
+		"/C/xampp/htdocs/School_System/student/attendance.php",
+		"/C/Users/Lauro Ribeiro/Documents/A PUSH NOTIFICATION/moodle/calendar/delete.php",
+		"/C/Users/Lauro Ribeiro/Documents/A PUSH NOTIFICATION/moodle/calendar/export.php",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa8528.16478/recover.php",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa8848.1226/admin.php",
+		"/C/xampp/htdocs/School_System/teacher/register_assignment.php",
+		"/C/xampp/htdocs/School_System/teacher/edit_extra_assignment.php",
+		"/C/xampp/htdocs/School_System/teacher/css/edit_assignment.css",
+		"/C/xampp/htdocs/School_System/teacher/extra_assignments.php",
+		"/C/xampp/htdocs/School_System/teacher/edit_exam.php",
+		"/C/xampp/htdocs/School_System/teacher/all_assessments.php",
+		"/C/xampp/htdocs/School_System/admin/cash_flow.php",
+		"/C/xampp/htdocs/School_System/student/index.php",
+		"/C/xampp/htdocs/School_System/_notes/dwsync.xml",
+		"/C/xampp/htdocs/School_System/treasury/index.php",
+		"/C/xampp/htdocs/School_System/staff_payment.php",
+		"/C/xampp/htdocs/School_System/teacher/students_who_showed_this_assignment.php",
+		"/C/xampp/htdocs/School_System/teacher/register_observation_note.php",
+		"/C/xampp/htdocs/School_System/student/assignments.php",
+		"/C/xampp/htdocs/School_System/student/send_assignment.php",
+		"/C/Users/Lauro Ribeiro/Downloads/ArithmeticMean.png",
+		"/C/xampp/htdocs/School_System/student/technical_support.php",
+		"/C/xampp/htdocs/School_System/teacher/grade_exams.php",
+		"/C/xampp/htdocs/School_System/teacher/register_semester_assignment.php",
+		"/C/xampp/htdocs/School_System/students_assignments/metal gear.jpg",
+		"/C/xampp/htdocs/School_System/teacher/alter_assignment_grade.php",
+		"/C/xampp/htdocs/School_System/treasury/header.php",
+		"/C/xampp/htdocs/School_System/teacher/css/header.css",
+		"/C/xampp/htdocs/School_System/teacher/header.php",
+		"/C/xampp/htdocs/School_System/concierge/css/index.css",
+		"/C/xampp/htdocs/School_System/img/dados_aluno.png",
+		"/C/Users/Lauro Ribeiro/AppData/Local/Temp/Rar$DIa17024.40510/topo.php",
+		"/C/xampp/htdocs/School_System/teacher/css/index.css",
+		"/C/xampp/htdocs/School_System/teacher/img/button.png",
+		"/C/xampp/htdocs/School_System/admin/show_results.php",
+		"/C/xampp/htdocs/School_System/admin/students.php",
+		"/C/xampp/htdocs/School_System/admin/courses_and_disciplines.php",
+		"/C/xampp/htdocs/School_System/student/header.php",
+		"/C/xampp/htdocs/School_System/index.php",
+		"/C/xampp/htdocs/School_System/student/css/index.css",
+		"/C/xampp/htdocs/School_System/student/img/dados_aluno.png"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chat.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
